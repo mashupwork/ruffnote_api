@@ -1,6 +1,6 @@
 # RuffnoteApi
 
-TODO: Write a gem description
+like a https://github.com/peter-murach/github
 
 ## Installation
 
