@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = RuffnoteApi::VERSION
   spec.authors       = ["pandeiro245"]
   spec.email         = ["nishiko@mindia.jp"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{https://ruffnote.com/apidoc}
+  spec.summary       = %q{https://ruffnote.com/apidoc}
   spec.homepage      = ""
   spec.license       = "MIT"
 
